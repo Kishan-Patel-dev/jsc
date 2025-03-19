@@ -11,14 +11,14 @@ How to Build and Run the Compiler:
 
 2. Navigate to the Project Directory:
 
-cd jsc
+```cd jsc```
 
 
 3. Ensure Necessary Tools are Installed: Verify that lex, yacc, and gcc are installed on your system. On Debian-based systems, you can install them using:
 
-sudo apt-get install flex bison gcc
+```sudo apt-get install flex bison gcc```
 
 
 4. Build the Compiler: Execute the provided shell script to build the compiler:
 
-./run.sh
+```./run.sh```
