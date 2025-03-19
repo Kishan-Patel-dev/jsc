@@ -6,7 +6,7 @@ How to Build and Run the Compiler:
 
 1. Clone the Repository:
 
-git clone https://github.com/Kishan-Patel-dev/jsc.git
+```git clone https://github.com/Kishan-Patel-dev/jsc.git```
 
 
 2. Navigate to the Project Directory:
